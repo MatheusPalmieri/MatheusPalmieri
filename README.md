@@ -1,4 +1,4 @@
-## Oi, me chamo Matheus Palmieri, sou estudante de HTML, CSS e JAVASCRIPT.
+## Oi, me chamo Matheus Palmieri, sou estudante de HTML, CSS, JAVASCRIPT e REACTJS.
 
 <div align="center">
   <a href="https://github.com/matheuspalmieri">
