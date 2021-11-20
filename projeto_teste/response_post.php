@@ -4,8 +4,6 @@ $username = "root";
 $password = "";
 $dbname = "projeto_teste";
 
-
-var_dump($_POST);
 if (isset($_POST['name']) && null !== $_POST['name'] AND !empty($_POST['name'])){
     $nome = $_POST['name'];
 } else {
