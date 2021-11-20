@@ -4,6 +4,7 @@ $username = "root";
 $password = "";
 $dbname = "projeto_teste";
 
+// request teste de fomulario
 if (isset($_POST['name']) && null !== $_POST['name'] AND !empty($_POST['name'])){
     $nome = $_POST['name'];
 } else {
