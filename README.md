@@ -1,4 +1,4 @@
-## Oi, me chamo Matheus Palmieri, sou desenvolvedor Web Design/Front-end, linguagens HTML, CSS e JavaScript, estudando React Native.
+## Oi, me chamo Matheus Palmieri, sou desenvolvedor Web Design/Front-end, linguagens HTML, CSS e JavaScript. E studando ReactNative, PHP e WordPress.
 
 <div align="center">
   <a href="https://github.com/matheuspalmieri">
