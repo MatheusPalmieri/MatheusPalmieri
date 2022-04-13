@@ -15,4 +15,3 @@
 123
   
 F23FEW,ÇFL
- SD MD,DV
