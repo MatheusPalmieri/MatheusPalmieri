@@ -1,4 +1,4 @@
-### Oi, me chamo Matheus Palmieri, sou desenvolvedor Front-end. Tecnologias que programo e utilizo: HTML, CSS, Java Script e React. Estudando Next, GraphQL, Styled-Component, TypeScript, React Native e PHP. Cursando atualmente Support on IT da Google. Tenho conhecimentos em Designer Gráfico, como Adobe Photoshop, Illustrator, In Design, Premiere e Corel Draw.
+### Oi, me chamo Matheus Palmieri, sou desenvolvedor Front-end. Conhecimentos em HTML, CSS, JavaScript, GitHub e React Native. Estudando Bootstrap, PHP e Vue. Cursando atualmente Estrutura e Funcionamento das Redes da Google. Conhecimentos em Designer Gráfico, como Adobe Photoshop, Illustrator, In Design, Premiere e Corel Draw.
 
 <div align="center">
   <a href="https://github.com/matheuspalmieri">
