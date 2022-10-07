@@ -1,4 +1,4 @@
-### Oi, me chamo Matheus Palmieri, sou desenvolvedor Front-end. Programo em JavaScript, React Native, Git, GitHub, HTML e CSS. Estudando Bootstrap, PHP e Vue. Cursando atualmente Estrutura e Funcionamento das Redes da Google. Conhecimentos em Designer Gráfico, como Adobe Photoshop, Illustrator, In Design, Premiere e Corel Draw.
+### Oi, me chamo Matheus Palmieri, sou desenvolvedor Front-end. Programo em JavaScript, React, Git, GitHub, HTML e CSS. Estudando Bootstrap, PHP e Vue. Cursando atualmente Estrutura e Funcionamento das Redes da Google. Conhecimentos em Designer Gráfico, como Adobe Photoshop, Illustrator, In Design, Premiere e Corel Draw.
 
 <div align="center">
   <a href="https://github.com/matheuspalmieri">
