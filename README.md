@@ -35,9 +35,9 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/matheusandrepalmieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCxirRqX83f-9sw09QFu8ZVQ?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://matheuspalmieri.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%232F8D46?style=for-the-badge&logo=Socket.io&logoColor=white"/></a>
-<a href="mailto:matheuspalmieridev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Send%20Email-%2335BDB2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
+<a href="https://www.youtube.com/@matheuspalmieridev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://matheuspalmieri.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%232F8D46?style=for-the-badge&logo=Socket.io&logoColor=white"/></a>
+<a href="mailto:matheuspalmieridev+github@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Send%20Email-%2335BDB2?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
 </div>
   
 <div align="center">
