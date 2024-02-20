@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Palmieri.;I'm+a+Front-end+Developer.;I'm+from+Brasil+-+SC.;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Palmieri.;I'm+a+Full+Stack+Developer.;I'm+from+Brasil.;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 [![MatheusPalmieri - Stats](https://github-readme-stats.vercel.app/api?username=MatheusPalmieri&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![MatheusPalmieri - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPalmieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
