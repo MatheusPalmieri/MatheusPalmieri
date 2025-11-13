@@ -23,17 +23,6 @@
     <img src="https://img.shields.io/badge/-Send%20Email-%2335BDB2?style=for-the-badge&logo=Minutemailer&logoColor=white"/>
   </a>
 </div>
-  
-<div align="center">
-  <br />
-  <p>
-    <b>Visitors Count</b>
-  </p>  
-  <p>
-    <img src="https://profile-counter.glitch.me/{MatheusPalmieri}/count.svg" />
-  </p> 
-  <br/>
-</div>
 
 <div align="center">
   <picture>
